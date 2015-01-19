@@ -1,6 +1,6 @@
-Project name: Fast Prime Number Generator in C
-Date: 2015-01-19
-Author: olehermanse ( http://www.github.com/olehermanse )
+Project name: Fast Prime Number Generator in C<br>
+Date: 2015-01-19<br>
+Author: olehermanse ( http://www.github.com/olehermanse )<br>
 
 World's most lazy license:
 This piece of software is completely free and open source.
