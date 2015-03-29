@@ -1,15 +1,26 @@
 Project name: Fast Prime Number Generator in C<br>
-Date: 2015-01-19<br>
+Date: 2015-03-29<br>
 Author: olehermanse ( http://www.github.com/olehermanse )<br>
 
-World's most lazy license:
-This piece of software is completely free and open source.
-It is meant for educational purposes and provided "as is"
-with no expressed or implied warranty of any kind. You are
-free to use, alter, edit, share, perform or distribute the
-source code in any way desired for any purpose, including
-but not limited to commercial, personal, entertainment and
-educational purposes.
+The MIT License (MIT)
 
-Credit is always appreciated.
-- olehermanse ( http://www.github.com/olehermanse )
+Copyright (c) 2015 olehermanse
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:<br>
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.<br>
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.<br>
+<br>
