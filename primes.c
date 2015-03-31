@@ -1,8 +1,8 @@
 /*============================================================================
 
 File: primes.c
-From project: Fast Prime number generator in C
-Date: 2015-03-29
+From project: Fast Prime Number Generator in C
+Date: 2015-04-01
 Author: olehermanse ( http://www.github.com/olehermanse )
 License: The MIT License (MIT)
 

@@ -1,10 +1,10 @@
-Project name: Fast Prime Number Generator in C<br>
-Date: 2015-03-29<br>
-Author: olehermanse ( http://www.github.com/olehermanse )<br>
+**Project name:** Fast Prime Number Generator in C<br>
+**Date:** 2015-04-01<br>
+**Author:** olehermanse ( http://www.github.com/olehermanse )<br>
 
-The MIT License (MIT)
+**The MIT License (MIT)**<br>
 
-Copyright (c) 2015 olehermanse
+Copyright (c) 2015 olehermanse<br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
